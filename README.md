@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Anderson Silva, <span>Wholesale IT Specialist at [GM Financial](https://gmfinancial.com). I live in Sao Paulo, Brazil!
+I'm Anderson Silva, <span>Solution Architect at [GM Financial](https://gmfinancial.com). I live in Sao Paulo, Brazil!
 
-Analyzing business requests and translating them into technical requirements, user stories and software solution designs is my job. Elaborating plans and providing estimates for the development of these solutions as well. I'm highly motivated, focused on results and always willing to evolve with new technologies and cultures. Proficient in Agile frameworks - like Scrum, DevOps/DevSecOps and Cloud technologies, especially Microsoft Azure, having 4 certifications on this platform for now.
+Analyzing business requests and translating them into technical requirements and software solution designs is my job. Elaborating plans and providing estimates for the development of these solutions as well. I'm highly motivated, focused on results and always willing to evolve with new technologies and cultures. Proficient in Agile frameworks - like Scrum, DevOps/DevSecOps and Cloud technologies, especially Microsoft Azure, having 4 certifications on this platform for now.
 
 I'm also interested in software development in general: Java, C#, Python, and so on.
 
