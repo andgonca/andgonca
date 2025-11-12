@@ -1,0 +1,19 @@
+https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-auto-insurance-using-amazon-lex/
+
+https://workshops.aws/categories/Amazon%20Bedrock
+https://www.workshops.aws/categories/AgentCore
+
+https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop
+  code: 5e4a-1e3f9f-d2
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/850fcd5c-fd1f-48d7-932c-ad9babede979/en-US
+https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US
+
+https://docs.aws.amazon.com/lex/latest/dg/what-is.html
+https://docs.aws.amazon.com/lex/latest/dg/gs-console.html
+
+https://github.com/awslabs/amazon-bedrock-agent-samples/tree/main/examples/agents_ux/streamlit_demo
+https://github.com/aws-samples/sample-bedrock-agentcore-with-strands-and-nova
+https://github.com/aws-samples/amazon-bedrock-workshop/
+
+App running: https://npx5rncdvzwokve.studio.us-west-2.sagemaker.aws/jupyterlab/default/proxy/8501/
